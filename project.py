@@ -270,7 +270,7 @@ class ResourceManager:
 
 #Kod Główny
 if __name__ == "__main__":
-    print("Joachim Tomik, Marzena Watarzyszyn")
+    print("Joachim Tomik")
     screen = pygame.display.set_mode([600,600])
     pygame.display.set_caption('Konsument Producent')
     cursor = pygame.cursors.compile(pygame.cursors.textmarker_strings)
